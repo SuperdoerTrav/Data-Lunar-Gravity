@@ -1,4 +1,4 @@
-from ssapy_data_lunar_gravity import data_resource, iter_data_files
+from ssa_data_lunar_gravity import data_resource, iter_data_files
 
 
 def test_component_data_is_packaged():
